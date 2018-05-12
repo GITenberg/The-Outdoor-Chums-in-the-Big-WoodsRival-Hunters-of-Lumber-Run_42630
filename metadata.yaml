@@ -1,0 +1,28 @@
+_repo: The-Outdoor-Chums-in-the-Big-WoodsRival-Hunters-of-Lumber-Run_42630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42630-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, Quincy
+    alias: Allen, Captain Quincy
+    gutenberg_agent_id: '3424'
+    url: http://www.gutenberg.org/2009/agents/3424
+description: ''
+gutenberg_issued: '2013-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Hunting stories'
+- !lcsh 'Lumber camps -- Juvenile fiction'
+title: The Outdoor Chums in the Big Woods; Or, Rival Hunters of Lumber Run
+url: http://www.gutenberg.org/ebooks/42630
